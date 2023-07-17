@@ -1,0 +1,16 @@
+{
+  "name": "paper-company",
+  "version": "1.0.0",
+  "description": "Michael Scott Paper Company",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "docx-templates": "^4.11.2",
+    "read-excel-file": "^5.6.1"
+  },
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
