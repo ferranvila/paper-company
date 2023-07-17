@@ -23,3 +23,9 @@ npm install
 ```bash
 npm run build
 ```
+
+## Next Steps
+
+- Generate PDF from output
+- Add eslint for validation
+- Add error handling
